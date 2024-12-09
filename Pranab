@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Life line</title>
+   <style>
+    body {
+      text-align: center;
+    }
+    h1 {
+      color: purple;
+      font-family: Verdana, sans-serif;
+    }
+  </style>
+</head>
+<body>
+<p class="profile-link">
+    <a href="https://www.facebook.com/profile.php?id=61559996770354&mibextid=ZbWKwL">
+        <img src="facebook.jpg" alt="Facebook Profile">
+    </a>
+    Facebook Profile
+</p>
+ <p><a href="https://youtu.be/u2UHKKiqqOA?si=mQb6NHJKzwgihOUz">
+    <img src="shreya 1.jpeg" ></a></p><br>
+	
+	 <p><a href="https://youtu.be/3dBIC2GKVjE?si=BcrGQ6Odri8eh-1R">
+    <img src="shreya 2.jpeg" ></a></p><br>
+	
+	 <p><a href="https://youtu.be/ReBHEyAd2zk?si=5gIdID1biR4FM4Mc">
+    <img src="shreya 3.jpg" ></a></p><br>
+	
+	 <p><a href="https://youtu.be/83uszv7KWCw?si=A9u3nP9GPhH9RvF7">
+    <img src="shreya 4.jpg" "></a></p><br>
+	<style>
+    .profile-link {
+        display: flex;
+        align-items: center; /* Align items vertically in the center */
+    }
+    .profile-link img {
+        margin-right: 10px; /* Add some spacing between the image and the text */
+    }
+</style>
+<style>
+    .profile-link {
+        display: flex;
+        align-items: center; /* Align items vertically in the center */
+        justify-content: center; /* Center align horizontally */
+        text-align: center; /* Center align text within the paragraph */
+    }
+    .profile-link img {
+        margin-right: 10px; /* Add some spacing between the image and the text */
+    }
+</style>
+</body>
+</html>
