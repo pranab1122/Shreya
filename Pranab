@@ -28,27 +28,8 @@
 	 <p><a href="https://youtu.be/ReBHEyAd2zk?si=5gIdID1biR4FM4Mc">
     <img src="shreya 3.jpg" ></a></p><br>
 	
-	 <p><a href="https://youtu.be/83uszv7KWCw?si=A9u3nP9GPhH9RvF7">
+	 <p><a href="https://youtu.be/83uszv7KWCw?si=A9u3nP9GPhH9RvF7">D
     <img src="shreya 4.jpg" "></a></p><br>
-	<style>
-    .profile-link {
-        display: flex;
-        align-items: center; /* Align items vertically in the center */
-    }
-    .profile-link img {
-        margin-right: 10px; /* Add some spacing between the image and the text */
-    }
-</style>
-<style>
-    .profile-link {
-        display: flex;
-        align-items: center; /* Align items vertically in the center */
-        justify-content: center; /* Center align horizontally */
-        text-align: center; /* Center align text within the paragraph */
-    }
-    .profile-link img {
-        margin-right: 10px; /* Add some spacing between the image and the text */
-    }
-</style>
+
 </body>
 </html>
